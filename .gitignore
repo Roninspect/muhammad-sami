@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+.impeccable/review
+*.log
+.DS_Store
+.claude
+.impeccable
+PRODUCT.md
